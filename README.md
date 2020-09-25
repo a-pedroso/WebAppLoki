@@ -16,7 +16,7 @@ https://grafana.com/oss/loki/
 ## Thanks to
 David Guida for the inspiration
 <br/>
-@mizrael
+@github/mizrael / https://github.com/mizrael
 <br/>
 https://www.davideguida.com/asp-net-core-structured-logging-part-2-the-infrastructure/
 
